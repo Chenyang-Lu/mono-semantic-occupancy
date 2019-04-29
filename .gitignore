@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+dataset/Cityscapes/leftImg8bit/*
+dataset/Cityscapes/Cityscapes_frankfurt_GT/*
+dataset/Cityscapes/Semantic_Occupancy_Grid_Multi_64/*
+checkpoints/*
+runs/*
