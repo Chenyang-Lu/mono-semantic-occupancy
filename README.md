@@ -32,7 +32,7 @@ Inplementation of the main experiment on the Cityscapes dataset. For KITTI, manu
 ## Citation
 
 ```
-@article{Lu2018a,
+@article{Lu2019icra-ral,
 author = {Lu, Chenyang and van de Molengraft, Marinus Jacobus Gerardus and Dubbelman, Gijs},
 journal = {IEEE Robotics and Automation Letters},
 number = {2},
