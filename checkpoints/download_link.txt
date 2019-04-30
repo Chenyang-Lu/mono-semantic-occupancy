@@ -1,1 +1,1 @@
-https://www.dropbox.com/s/3rzi7ol9ixsf20w/vae_checkpoint.pth.tar?dl=0
+http://bit.ly/2PDuMOI
