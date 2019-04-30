@@ -14,10 +14,11 @@ Inplementation of the main experiment on the Cityscapes dataset. For KITTI, manu
 
     dataset/Cityscapes/Semantic_Occupancy_Grid_Multi_64.zip
 
+
 ## Usage
 1. ```pip install -r requirements.txt```
 
-2. unzip the ground truth and training data into the same folder, download the trained model if you don't want to re-train (link is in the checkpoint folder).
+2. Unzip the ground truth and training data into the same folder. Download the trained model if you don't want to re-train (link is in the checkpoint folder). Download the ```leftImg8bit_trainvaltest.zip``` files from [Cityscapes](https://cityscapes-dataset.com) website and unzip it into ```dataset/Cityscapes/leftImg8bit```
 
 3. run 
 
